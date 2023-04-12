@@ -9,3 +9,4 @@ Algorithms Used:
 Tools:
 •	Jupyter Notebook for ML Model
 •	Streamlit for WebApp
+https://adhava4-employee-attrition-prediction-app-9glkap.streamlit.app/
