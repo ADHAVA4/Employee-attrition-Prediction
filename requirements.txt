@@ -1,1 +1,2 @@
 seaborn==0.12
+sklearn==1.2.2
